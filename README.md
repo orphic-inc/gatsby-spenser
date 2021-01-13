@@ -1,21 +1,21 @@
-![Gatsby Logo](https://github.com/vercel/vercel/blob/master/packages/frameworks/logos/gatsby.svg)
+![Gatsby Logo](https://github.com/vercel/vercel/blob/master/packages/frameworks/logos/gatsby.svg) ~ ![Orphic logo](https://orphic.enterprises/sites/default/files/logo-100px.png)
 
-# Gatsby Example
+# Gatsby - Spenser.TV
 
-This directory is a brief example of a [Gatsby](https://www.gatsbyjs.org/) app with [Serverless Functions](https://vercel.com/docs/v2/serverless-functions/introduction) that can be deployed with Vercel and zero configuration.
+This directory is a brief Gatsby [sample app](https://spenser.tv) with [Serverless Functions](https://vercel.com/docs/v2/serverless-functions/introduction) that can be deployed with Vercel and zero configuration.
 
 ## Deploy Your Own
 
 Deploy your own Gatsby project, along with Serverless Functions, with Vercel.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vercel/vercel/tree/master/examples/gatsby)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/orphic-inc/gatsby-spenser/tree/master/examples/gatsby)
 
-_Live Example: https://gatsby.now-examples.now.sh_
+_Live Example: https://orphic.sh_
 
 ### How We Created This Example
 
-To get started with Gatsby on Vercel, you can use the [Gatsby CLI](https://www.gatsbyjs.org/docs/gatsby-cli/) to initialize the project:
+To get started with Gatsby on Vercel, you can use the [Orphic CLI](https://orphic.enterprises/orphic-cli/) to initialize the project:
 
 ```shell
-$ gatsby new gatsby-site
+$ orphic new node gatsby
 ```
