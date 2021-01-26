@@ -49,6 +49,7 @@ function Index() {
       <br />
       <h2>The date according to Node.js (TypeScript) is:</h2>
       <p>{date ? date : 'Loading date...'}</p>
+  <iframe src="https://open.spotify.com/embed/playlist/0VBIQ6M3ryZmUiCx6u8rs6" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
     </main>
   );
 }
