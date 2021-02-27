@@ -35,7 +35,7 @@ function Index() {
       <br />
       <h2>The date according to Node.js (TypeScript) is:</h2>
       <p>{date ? date : 'Loading date...'}</p>
-  <iframe src="https://open.spotify.com/embed/playlist/0VBIQ6M3ryZmUiCx6u8rs6" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  <iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/fires-in-heaven/1535710389"></iframe>
     </main>
   );
 }
